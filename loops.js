@@ -3,6 +3,8 @@ function forLoop(array) {
     if (i === 1){
     Array.push("I am 1 strange loop");
     }
-    else (i === ("I am S(i) strange loops");
+    else{
+   Array.push("I am S(i) strange loops");
+    }
   }
 }
